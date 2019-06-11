@@ -1,0 +1,18 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+
+**Check google drive**: 
+
+- [Academy Participants](https://docs.google.com/spreadsheets/d/1D2rjQUfQ07_0XP8_vpjMD6Mpi5t0QdJMU0nCYybgs6E/edit?usp=drive_web&ouid=111598306994142170106)
+- [Handbook - Before Workshop](https://drive.google.com/drive/folders/0B1S1e0bQ66WXUGlKaDBvTXJ2eEk?usp=sharing)
+- [Data Science Academy Training](https://drive.google.com/drive/folders/1I1h0p4BkvkUYV8mtDU7bgswE_awOIxWY?usp=sharing)
+- [Algoritma Training](https://drive.google.com/drive/folders/1Kzwn1C-EN6vAHkE_88WZfMskJCA95j3l?usp=sharing)
+- [Capstone Library](https://drive.google.com/drive/folders/1KWdY9ROI0wuref5w88RnlGd11kN7ziM0?usp=sharing)
+- [Rubrics for LBB](https://drive.google.com/file/d/1dqPnAVxOWfrnKcgc2dmRmOhnACX-nloA/view?usp=sharing)
+- [Capstone Machine Learning Draft](https://drive.google.com/drive/folders/1KWdY9ROI0wuref5w88RnlGd11kN7ziM0?usp=sharing)
+- [Algoritma Score](https://docs.google.com/spreadsheets/d/1cGJ0pn9k9gKCBnceWVwaL9D7BBDMNjLh8uPYlaBlJi8/edit?usp=sharing)
+- [Algoritma Quiz Result](https://docs.google.com/spreadsheets/d/1szkny9SymJCXYFOiVcWca5yK2npiNhUyNMu3lJrhgJM/edit?usp=sharing)
+- [Article for helps Capstone](https://rpubs.com/AlgoritmaAcademy/)
+- Capstone DV : <https:rpubs.com/AlgoritmaAcademy/dv_capstone> 
+- Capstone ML : <http://rpubs.com/AlgoritmaAcademy/ml_capstone>
+'`

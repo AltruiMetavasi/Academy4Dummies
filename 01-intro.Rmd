@@ -1,0 +1,42 @@
+# Academy for Dummies {#intro}
+
+Here's the thing you need to prepare/know before going to class. `r emo::ji("smile")`
+
+## Before Class
+
+- Send email to Participants 
+	- Usually send the materials D-1 workday : Remind Jasmine
+	- Check workshop place, **date** 
+	- Workshop P4DS&PS don't forget to attached Handbook Guide to install R and RStudio from [drive](https://drive.google.com/drive/folders/0B1S1e0bQ66WXUGlKaDBvTXJ2eEk?usp=sharing)
+	- Attached the [materials drive](https://drive.google.com/drive/folders/1I1h0p4BkvkUYV8mtDU7bgswE_awOIxWY?usp=sharing)
+	- Send the email `bcc` to participants,
+					 `cc` to BD team lead and Product Team (TA+/Instructor, Lead)
+	- **Don't forget the Subject for your email** 
+
+- Share drive for **participants only**. **Always** Check [CRM Dashboard](https://docs.google.com/spreadsheets/d/1D2rjQUfQ07_0XP8_vpjMD6Mpi5t0QdJMU0nCYybgs6E/edit?usp=drive_web&ouid=111598306994142170106)
+
+
+## The day workshop
+
+- **Absent for Participants**
+- Checking marker, Projector + Mic
+- Bring Times Up and 15 minutes
+- **Always** bring USB drive (materials, installer) and modem
+
+## Last Day Workshop 
+
+- Send LBB before class start
+- Bring and give **certificate** to participants
+- Feedback form for the last day
+- For the end of Specialization, check Administration (certificate, absent etc)
+
+## After Class
+
+
+- Turn off the projector
+- Pull out the socket in class
+- Turn off AC (toilet, class)
+- Turn off the lamp (toilet, class)
+- Bring the left food to the first floor
+
+

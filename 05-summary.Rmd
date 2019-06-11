@@ -1,0 +1,120 @@
+# Resource for Teaching
+
+
+## Programming for Data Science
+
+- Google Style Guide using R : <http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html>
+- About Rmarkdown : <https://bookdown.org/yihui/rmarkdown/>
+- R for Data Science by Hadley Wickam : <https://r4ds.had.co.nz/>
+- [When teaching R](https://whattheyforgot.org/):
+	- Use IDE
+	- Save source
+	- Project-oriented workflow : use RProject instead `setwd()`
+	- How to name files: avoid spaces, punctuation, accented character, [case sensitivity](https://speakerdeck.com/jennybc/how-to-name-files)
+	
+## Data Visualization
+
+- Kind of visualization : <https://www.data-to-viz.com/>
+- GGplot2 : <https://ggplot2.tidyverse.org/>
+- Leaflet : <https://rstudio.github.io/leaflet/>
+
+
+## Interactive Plotting
+
+- Interactive Plotting in R : <http://www.htmlwidgets.org>
+- Flexdashboard: <https://rmarkdown.rstudio.com/flexdashboard/>
+- Shiny Dashboard: <https://rstudio.github.io/shinydashboard>
+- Shiny Dashboard Youtube Dataset : <https://github.com/onlyphantom/advisory>
+
+
+## Data Visualization Capstone Project
+- <https://www.showmeshiny.com/>
+- <https://shiny.rstudio.com/gallery/>
+- R gallery : <https://www.r-graph-gallery.com/>
+
+
+## Machine Learning
+- What is Data Science?
+	-  Good paper: [Download](https://www.dropbox.com/s/e38nil1dnl7481q/machine_learning.pdf?dl=0)
+- Data Science in ... industry (read quora, or top articles, find white paper)
+	- Data Science in [Banking](https://www.evry.com/globalassets/insight/bank2020/bank-2020---big-data---whitepaper.pdf)
+	- Data Science in Banking and [Insurance](https://pages.dataiku.com/hubfs/PDF/Whitepaper/WP-Data%20Science%20for%20Banking%20&%20Insurance.pdf)
+	- Data Science[Process](https://twitter.com/cloudpreacher/status/895045429611679744)
+-[Machine Learning 101](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+- Kaggle 
+
+## Regression Model
+- Insurance companies heavily rely on regression analysis to estimate the credit standing of policyholders and a possible number of claims in a given time period. 
+- In a call center, we can analyze the relationship between wait times of callers and number of complaints. 
+- Retail store manager may believe that extending shopping hours will greatly increase sales. Regression analysis, however, may indicate that the increase in revenue might not be sufficient to support the rise in operating expenses due to longer working hours (such as additional employee labor charges). Hence, regression analysis can provide quantitative support for decisions and prevent mistakes due to manager's intuitions. [source](https://www.newgenapps.com/blog/business-applications-uses-regression-analysis-advantages)
+- Predict Profit from Sales (in course materials)
+
+## Classification in Machine Learning 1
+- Logistic Regression: Loan default example.
+	- A banker want to be able to identify characteristics person who are more likely to defaults on loans, also it can be identify of what kind of risk [(high, medium or low risks)](http://smartdrill.com/pdf/Credit%20Risk%20Analysis.pdf)
+	- Human Resources: The HR manager of a company wants to predict the absenteeism pattern of his employees based on their individual [characteristic.](https://www.analyticsinsight.net/introduction-to-logistic-regression/)
+
+- kNN: cancer detection
+	- Retail to detect patterns in credit card usage. Many new transaction-scrutinizing software applications use kNN algorithms to analyze register data and spot unusual patterns that indicate suspicious [activity.](https://www.dummies.com/programming/big-data/data-science/solving-real-world-problems-with-nearest-neighbor-algorithms/
+	- Detecting breast cancer by applying the KNN (K-Nearest Neighbours) algorithm to measurements of biopsied cells from women with abnormal [breast masses;](https://medium.com/ividata-link/breast-cancer-detection-with-knn-algorithm-751f2e12a5f0)
+	- [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4978658/)
+
+## Classification in Machine Learning 2
+
+- CARET book : <https://topepo.github.io/caret/index.html>
+
+- Naive Bayes :
+	- For demo use : <https://samuelc.shinyapps.io/textcomplete/> or <https://niffadf.shinyapps.io/oaclass/>
+	- Example to teach naive bayes: case weather [(predict play golf or not)](https://www.saedsayad.com/naive_bayesian.htm)
+
+- Decision Tree :
+	- if we are classifying bank loan application for a customer will be default or not; and we have data like age, job, income range, criminal records, makes credit card payment
+	- Example to teach DT: <https://www.saedsayad.com/decision_tree.htm>
+
+- Random Forest 
+	- In Banking it is used for example to detect customers who will use the bank’s services more frequently than others and repay their debt in time. In this domain it is also used to detect fraud customers who want to scam the bank.
+	- In finance, it is used to determine a stock’s behaviour in the future.
+	- In the healthcare domain it is used to identify the correct combination of components in medicine and to analyze a patient’s medical history to identify diseases. 
+	- In e-commerce random forest is used to determine whether a customer will actually like the product or not.
+	- (https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
+
+## Unsupervised Learning
+
+Examples of where unsupervised learning methods might be useful:
+
+- An advertising platform segments the U.S. population into smaller groups with similar demographics and purchasing habits so that advertisers can reach their target market with relevant ads.
+- Airbnb groups its housing listings into neighborhoods so that users can navigate listings more easily.
+- Also: clustering AirBNB reviews (using Mixture Models-> another method of clustering <https://arxiv.org/pdf/1705.03134.pdf)>)
+- Cluster Profiles based on motivations for [Choosing AirbnB](https://www.researchgate.net/publication/316533754_Why_Tourists_Choose_Airbnb_A_Motivation-Based_Segmentation_Study)
+- A data science team reduces the number of dimensions in a large data set to simplify modeling and reduce file size
+- PCA Scenario : generated image embeddings (2048x1 vectors) for listing cover- page photoS OR rojected these long vectors onto a 2D plane using [PCA techniques](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) then use this for Classification and Deep learning to o categorize aiRBNB listing photos into different room types.
+
+## Time Series
+- BEST BOOK EVER: https://otexts.com/fpp2
+- Why need time series ? 
+ 	- Deciding whether to build another power generation plant in the next five years requires forecasts of future demand;
+ 	- Scheduling staff in a call centre next week requires forecasts of call volumes; 
+ 	- Stocking an inventory requires forecasts of stock requirements
+ 	- For example, forecasts of electricity demand can be highly accurate because all three conditions are usually satisfied. We have a good idea of the contributing factors: electricity demand is driven largely by temperatures, with smaller effects for calendar variation such as holidays, and economic conditions. Provided there is a sufficient history of data on electricity demand and weather conditions, and we have the skills to develop a good model linking electricity demand and the key driver variables, the forecasts can be remarkably accurate.
+ 	- On the other hand, when forecasting currency exchange rates, only one of the conditions is satisfied: there is plenty of available data. However, we have a limited understanding of the factors that affect exchange rates, and forecasts of the exchange rate have a direct effect on the rates themselves. 
+
+
+## Neural Network 
+ 
+- Neural Network <http://neuralnetworksanddeeplearning.com/chap1.html>
+
+Application:
+
+- Pattern classification
+
+- Prediction and financial analysis, and
+
+- Control and Optimization
+
+Real life example:
+
+- Credit card fraud detection reportedly being used by Eurocard Nederland, Mellon Bank, First USA Bank, etc. [Bylinsky 1993];
+
+- Optical character recognition (OCR) utilized by fax software such as Calera Recognition System’s FaxGrabber and Caere Corporation’s Anyfax OCR engine that is licensed to other products such as the popular WinFax
+
+- Cursive handwriting recognition being used by Lexicus2 Corporation’s Longhand program that runs on existing notepads such as NEC Versapad, Toshiba Dynapad etc. [Bylinsky 1993]

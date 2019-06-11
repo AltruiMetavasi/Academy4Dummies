@@ -1,0 +1,60 @@
+# Learn-by-Building (LBB)
+
+- Update Score : Mentee update score to google drive for [Academy Score](https://docs.google.com/spreadsheets/d/1cGJ0pn9k9gKCBnceWVwaL9D7BBDMNjLh8uPYlaBlJi8/edit#gid=1913183051)
+- Send the LBB in day 4 Academy. Format for LBB you can check in drive [here](https://drive.google.com/file/d/1dqPnAVxOWfrnKcgc2dmRmOhnACX-nloA/view?usp=sharing)
+
+## Rubrics DV Track (40 points)
+
+- P4DS (2 point) : 
+	- R Script : Functionalities (1), Work (1)
+	- Rmd : Format (1), Analysis/Insight (1)
+- DV (2 point) :
+	- Insight (1)
+	- Aestethics (1) 
+- IP (4 point) :
+  - Input / plotly(1)
+  - Insight (1)
+  - Output dashboard: flex, shiny, shiny dashboard(1)
+  - dplyr or not (1)
+- Capstone DV (30 point)
+	- Input (reactivity) : 6 point
+	- Tab (paging) : 6 point
+	- Render plot (ggplot/leaflet) : 6 point
+	- Deploy : 6 point
+	- UI Appearence : 6 point
+		
+		
+## Rubrics ML Track (60 point)
+	
+- Regression Model (3 point)
+	- Feature Selection
+	- Assumption Checking
+	- Model Interpretation
+- Classification in Machine Learning 1 (3 point)
+	- Pre-processing 
+	- Model Selection/ Analysis (Logistic = Interpretation; KNN = Optimum k)
+	- Confusion Matrix
+- Classification in Machine Learning 2 (3 point)
+	- Pre-processing 
+	- Confusion matrix evaluation
+	- Model Improvement
+- Unsupervised Learning (3 point)
+	- Pre-processing
+	- Model Selection/Analysis
+	- Insight
+- Time-series (3 point)
+	- Pre-processing
+	- Exploration/Decomposition/Analysis
+	- Model Evaluation
+- Neural Network (3 point)
+	- Pre-processing
+	- Layer Building
+	- Model Evaluation
+- General Machine Learning, Capstone Custom (24 point)
+	- Problem solving (8 point)
+	- Model performance (8 point)
+	- Interpretation (8 point)
+	
+
+
+

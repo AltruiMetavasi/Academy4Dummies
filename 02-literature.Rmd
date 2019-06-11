@@ -1,0 +1,34 @@
+# Link Quizzes
+
+
+1. Shiny apps (`algoritmagq.shinyapps.io`)
+
+Email : iffa@algorit.ma
+Pass : n45gor
+
+- P4DS: https://algoritmagq.shinyapps.io/ExamP4DS/
+- Regression : https://algoritmagq.shinyapps.io/ExamRM/
+- CL 1 : https://algoritmagq.shinyapps.io/ExamCL1/
+- CL 2: https://algoritmagq.shinyapps.io/ExamCL2/
+- Unsupervised: https://algoritmagq.shinyapps.io/ExamUL/
+- Timeseries: https://algoritmagq.shinyapps.io/ExamTS/
+- Neural Network: https://algoritmagq.shinyapps.io/ExamNN/
+
+- Instructor : Timer for quiz (15-20 minutes)
+- Quiz Score : TA check google drive for [Quiz Score](https://docs.google.com/spreadsheets/d/1szkny9SymJCXYFOiVcWca5yK2npiNhUyNMu3lJrhgJM/edit#gid=1022267512)
+
+2. Shiny apps (`algoritma.shinyapps.io`)
+
+Email: efa@algorit.ma
+Pass : algoritma123
+
+- BCA Pre-test :  https://algoritma.shinyapps.io/bcapretest/
+
+3. Rpubs for Capstone Project
+
+Email: ajeng@algorit.ma
+Pass : algoritma123
+
+- Capstone DV : <https:rpubs.com/AlgoritmaAcademy/dv_capstone> 
+- Capstone ML : <http://rpubs.com/AlgoritmaAcademy/ml_capstone>
+- Also article in <http://rpubs.com/AlgoritmaAcademy/>; for each Rmd please check Capstone Library folders sub-folder Article.

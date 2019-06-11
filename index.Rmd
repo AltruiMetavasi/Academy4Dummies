@@ -1,0 +1,24 @@
+--- 
+title: "Algoritma for Dummies 101"
+author: "Algoritma Team"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is guide for Product Team Algoritma."
+---
+
+# Introduction
+
+This is guide for Product Team Algoritma. In this book, you can find some rules for Algoritma for Dummies, Do and Don't for Product Team, Rubrics for Algoritma Academy LBB also Resource for Teaching. 
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
